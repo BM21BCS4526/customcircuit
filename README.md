@@ -1,15 +1,19 @@
  **customcircuit**
+ 
  This project is used to generate zero-knowledge circuits, proofs, and solidity verifiers.
 
  
  **Description**
+ 
  In this project, I have used Circom,  a zkSNARK framework for compiling zero-knowledge circuits. 
  It comes with its own domain-specific language (DSL) for writing circuits and tools to compile those circuits into artifacts.
  After the successful completion of the circuit, we will deploy it on the test network.
 
  
  **Getting Started**
+ 
  **Installing**
+ 
  Demo template is provided at https://github.com/gmchad/zardkat.
  For custom circuit need to made changes on circuit.circom.
  pragma circom 2.0.0;
@@ -65,4 +69,5 @@ Try to use Gitpod.
 
 
 **Author**
+
 Baby Monal
